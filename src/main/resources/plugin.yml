@@ -1,0 +1,6 @@
+name: WindWandPlugin
+version: 1.0
+main: pl.arenaplugin.windwand.WindWandPlugin
+api-version: '1.21'
+author: TwójNick
+description: Plugin wprowadzający losową Różdżkę Wichru z 6 abstrakcyjnymi mechanikami!
